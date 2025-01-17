@@ -42,11 +42,12 @@ This tutorial outlines the post-install configuration of the open-source help de
   - Define permissions for agents based on the role they will have. In this lab, we will give permissions for the Tickets, Tasks, and Knowledgebase sections.
 
 <p>
-<img src="https://i.imgur.com/9dJCITM.png" height="80%" width="80%" alt="Step 2 Lab 3"/>
+<img src="https://github.com/user-attachments/assets/d40ac78c-0bb1-458f-bd6e-12ad28719ecc"/> 
 </p>
 
 <p>
-<img src="https://i.imgur.com/LH17Nqu.png" height="80%" width="80%" alt="Step 2 Lab 3"/>
+<img src="https://github.com/user-attachments/assets/0a3da163-7ac2-4c6d-852e-5ee6d90d1288"/>
+
 </p>
 
 <h3>3.) Configure Departments</h3>
