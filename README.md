@@ -38,9 +38,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h3>2.) Configure Roles</h3>
 
-- Navigate to **Admin Panel -> Agents -> Roles**.
-- Add a new role called **Supreme Admin**.
-  - Define permissions for agents based on the role they will have. In this lab, we will give permissions for the Tickets, Tasks, and Knowledgebase sections.
+- Go to **Admin Panel -> Agents -> Roles**.
+- Add a new role  **Supreme Admin**.
+  - Give permissions for agents based on the role they will have. In this lab, we will give permissions for the Tickets, Tasks.
 
 <p>
 <img src="https://github.com/user-attachments/assets/d40ac78c-0bb1-458f-bd6e-12ad28719ecc"/> 
@@ -53,8 +53,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h3>3.) Configure Departments</h3>
 
-- Navigate to **Admin Panel -> Agents -> Departments**.
-- Add a new department called **SysAdmins**.
+- Go to **Admin Panel -> Agents -> Departments**.
+- Add a new department  **SysAdmins**.
   - Use departments to control ticket visibility and assign areas of responsibility (e.g., Help Desk, SysAdmins, Networking).
 
 <p>
@@ -64,9 +64,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h3>4.) Configure Teams</h3>
 
-- Navigate to **Admin Panel -> Agents -> Teams**.
-- Create a new team called **Online Banking**.
-  - Pull agents from different departments to form specialized teams.
+- Go to **Admin Panel -> Agents -> Teams**.
+- Create a new team **Online Banking**.
+  - Take agents from different departments to form specialized teams.
 
 <p>
 <img src="https://github.com/user-attachments/assets/e8529098-f851-4343-b6ab-0c6894c201a3"/>
@@ -74,7 +74,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h3>5.) Allow Anyone to Create Tickets</h3>
 
-- Navigate to **Admin Panel -> Settings -> User Settings**.
+- Go to **Admin Panel -> Settings -> User Settings**.
 - Uncheck **Require registration and login to create tickets** to enforce ticket creation by anyone.
 - Enable **Public - Anyone can register** to disable requiring users to register and log in before creating tickets.
 
@@ -84,7 +84,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h3>6.) Configure Agents (Workers)</h3>
 
-- Navigate to **Admin Panel -> Agents -> Add New**.
+- Go to **Admin Panel -> Agents -> Add New**.
 - Add agents with the following details:
   - **Jane**: Assigned to the **SysAdmins** department.
   - **John**: Assigned to the **Support** department.
@@ -107,7 +107,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h3>7.) Configure Users (Customers)</h3>
 
-- Navigate to **Agent Panel -> Users -> Add New**.
+- Go to **Agent Panel -> Users -> Add New**.
 - Add users with the following details:
   - **Karen**
   - **Ken**
@@ -123,7 +123,7 @@ User is now added
 
 <h3>8.) Configure SLA (Service Level Agreements)</h3>
 
-- Navigate to **Admin Panel -> Manage -> SLA**.
+- Go to **Admin Panel -> Manage -> SLA**.
 - Add the following SLAs:
   - **Sev-A**: Grace Period = 1 hour, Schedule = 24/7.
   - **Sev-B**: Grace Period = 4 hours, Schedule = 24/7.
@@ -143,7 +143,7 @@ User is now added
 
 <h3>9.) Configure Help Topics</h3>
 
-- Navigate to **Admin Panel -> Manage -> Help Topics**.
+- Go to **Admin Panel -> Manage -> Help Topics**.
 - Add the following help topics for users to select when creating a ticket:
   - **Business Critical Outage**
   - **Personal Computer Issues**
@@ -164,4 +164,4 @@ User is now added
 
 <h2>Conclusion</h2>
 
-By completing the post-installation configuration steps, you have successfully customized osTicket to suit your organization's requirements. You are now ready to start using osTicket to manage and resolve customer issues efficiently.
+Completing the post-installation configuration steps, you have successfully customized osTicket to suit your organization's requirements. You are now ready to start using osTicket to manage and resolve customer issues efficiently.
