@@ -7,8 +7,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure 
-- Virtual Machines
+-Microsoft Azure 
+-Virtual Machines
 - Remote Desktop
 - Internet Information Services (IIS)
 
@@ -20,12 +20,13 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Post-Install Configuration Objectives</h2>
 
 - Aquire the understanding of all the parts of ticketing systems, such as:
- - Tickets Properties
- - SLAs
- - Create Teams.
- - Departments
- - Permissions
- - Users
+  - **Tickets properties:**
+  - **SLA:**
+  - **Departments:**
+  - **Permissions:**
+  - **Users:** 
+   
+
 
 
 <h2>Configuration Steps</h2>
