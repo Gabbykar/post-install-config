@@ -146,13 +146,20 @@ User is now added
 - Add the following help topics for users to select when creating a ticket:
   - **Business Critical Outage**
   - **Personal Computer Issues**
-  - **Equipment Request**
   - **Password Reset**
-  - **Other**
 
 <p>
-<img src="https://i.imgur.com/QkUOKCA.png" height="80%" width="80%" alt="Step 2 Lab 3"/>
+<img src="https://github.com/user-attachments/assets/438189d8-8a68-4ee3-a955-9277675ac8ef"/>
 </p>
+
+<p>
+<img src="https://github.com/user-attachments/assets/848232bb-58d8-496f-abeb-6ac73ec4feb4"/>
+</p>
+
+<p>
+<img src="https://github.com/user-attachments/assets/c7a82464-a375-4d8f-9d28-48fa1d8225ec"/>
+
+
 
 <h2>Conclusion</h2>
 
