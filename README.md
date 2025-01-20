@@ -119,7 +119,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p>
 <img src="https://github.com/user-attachments/assets/b19f6077-64a6-4bf5-9611-4eacff2b7671"/>
 </p>
-User is now added
+
 
 <h3>8.) Configure SLA (Service Level Agreements)</h3>
 
